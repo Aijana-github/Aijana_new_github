@@ -6,6 +6,9 @@ def change_list(mode,number):
         list1.pop(number)
     elif mode == 'remove' and number in list1:
         list1.remove(number)
+    elif mode == 'pop':
+        if number >= len(list1):
+            print('Вы ввели сликом большое число')
     else:
         print('Вы ввели неверный мод!')
 
