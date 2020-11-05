@@ -114,3 +114,11 @@ intel hd
 nvidia
 intel hd
 nvidia
+intel hd
+nvidia
+intel hd
+nvidia
+intel hd
+nvidia
+intel hd
+nvidia
